@@ -1,0 +1,2 @@
+# kocha
+Japanese sentence generator
