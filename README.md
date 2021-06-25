@@ -1,4 +1,4 @@
-Kocha is a language learning webapp for Japanese kanji. Simpyl input the kanji you know, click go and a sentence will appear with only those kanji.
+Kocha is a language learning webapp for Japanese kanji. Input the kanji you know, click go and a sentence will appear with only those kanji.
 
 https://kocha.herokuapp.com/
 
